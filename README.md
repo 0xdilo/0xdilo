@@ -34,11 +34,9 @@
 
 ---
 
-<img align="left" src="https://media1.tenor.com/m/LScBRLhzlFUAAAAd/lain-sel.gif" width="150" />
-
-<p align="center">~(=^‥^)ノ ~ ~(=^‥^)ノ ~ ~(=^‥^)ノ</p>
-
-<br clear="left"/>
+<p align="center">
+  <img src="https://media1.tenor.com/m/LScBRLhzlFUAAAAd/lain-sel.gif" />
+</p>
 
 ---
 
