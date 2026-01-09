@@ -4,12 +4,11 @@
   <img src="https://media.tenor.com/XLprFoJLe6kAAAAj/lain-serial-experiments-lain.gif" height="180" />
 </p>
 
-```text
-        ／l、
-      （ﾟ､ ｡ ７
-        l  ~ヽ
-        じしf_,)ノ
-```
+<pre align="center">
+    /\_/\
+   ( o.o )
+    > ^ <
+</pre>
 
 <p align="center">i really like computers and rust, and other things</p>
 
@@ -27,37 +26,31 @@
 
 <br clear="right"/>
 
-```text
-   ∧ ∧
-  (  ･ω･)  ～♪
-  ｜⊃/(＿＿_
-  /└-(＿＿＿／
-   ￣￣￣￣￣￣￣
-```
+<pre align="center">
+   /\_/\
+  ( -.- )  zzZ
+   > ^ <
+</pre>
 
 ---
 
 <img align="left" src="https://media1.tenor.com/m/LScBRLhzlFUAAAAd/lain-sel.gif" width="150" />
 
-```text
-
-  ᓚᘏᗢ  ～  ᓚᘏᗢ  ～  ᓚᘏᗢ
-
-```
+<p align="center">~(=^‥^)ノ ~ ~(=^‥^)ノ ~ ~(=^‥^)ノ</p>
 
 <br clear="left"/>
 
 ---
 
-```text
-        ╱|、
-      (˚ˎ 。7
-       |、˜〵
-       じしˍ,)ノ
-```
+<pre align="center">
+  |\__/,|   (`\
+  |_ _  |.--.) )
+  ( T   )     /
+ (((^_(((/(((_/
+</pre>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/-q5jLxhI7GAAAAAd/lain-sel.gif" height="250" />
 </p>
 
-<p align="center"><code>(´• ω •`) ♡</code></p>
+<p align="center">(´• ω •`) ♡</p>
