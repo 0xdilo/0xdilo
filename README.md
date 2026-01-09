@@ -11,9 +11,7 @@
         じしf_,)ノ
 ```
 
-```rust
-let dilo = vec!["rust", "zig", "lua", "computers", "other things"];
-```
+<p align="center">i really like computers and rust, and other things</p>
 
 ---
 
