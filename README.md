@@ -26,12 +26,6 @@
 
 <br clear="right"/>
 
-<pre align="center">
-   /\_/\
-  ( -.- )  zzZ
-   > ^ <
-</pre>
-
 ---
 
 <p align="center">
